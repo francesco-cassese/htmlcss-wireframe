@@ -22,3 +22,16 @@ body{
     text-align: center;
     border-bottom: 2px solid black;
 }
+
+/*
+    Main 
+*/
+
+.container-box{
+    height: 200px;
+    width: 80%;
+    margin: 0 auto;
+    border: 2px solid black;
+   margin-top: 20px;
+   padding: 20px;
+}
