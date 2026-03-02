@@ -12,3 +12,13 @@ body{
     width: 512px;
     margin: 0 auto;
 }
+
+/*
+    Header
+*/
+
+.header-container {
+    padding: 10px;
+    text-align: center;
+    border-bottom: 2px solid black;
+}
