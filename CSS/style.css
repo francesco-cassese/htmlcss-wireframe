@@ -21,6 +21,9 @@ body{
     padding: 10px;
     text-align: center;
     border-bottom: 2px solid black;
+    position: sticky;
+    top: 0;
+    background-color: white;
 }
 
 /*
