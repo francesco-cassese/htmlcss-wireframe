@@ -31,7 +31,7 @@ body{
 */
 
 .container-box{
-    height: 200px;
+    min-height: 200px;
     width: 80%;
     margin: 0 auto;
     border: 2px solid black;
