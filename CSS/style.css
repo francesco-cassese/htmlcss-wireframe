@@ -2,13 +2,13 @@
     CSS reset & "Restrizioni" 
 */
 
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-body{
+body {
     width: 512px;
     margin: 0 auto;
 }
@@ -30,7 +30,7 @@ body{
     Main 
 */
 
-.card{
+.card {
     min-height: 200px;
     width: 80%;
     margin: 0 auto;
@@ -43,7 +43,7 @@ body{
     Footer
 */
 
-.container-footer{
+.container-footer {
     margin-top: 20px;
     border-top: 2px solid black;
     padding: 15px;
@@ -51,4 +51,3 @@ body{
     bottom: 0;
     background-color: white;
 }
-

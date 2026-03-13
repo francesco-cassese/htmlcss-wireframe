@@ -10,3 +10,11 @@ Riprodurre il layout del wireframe assegnato focalizzandosi sulle proprietà del
 ## Tecnologie
 - HTML5
 - CSS3
+
+### Struttura delle cartelle
+```text
+htmlcss-wireframe/
+├── css/
+│   └── style.css       # Foglio di stile con logica Box Model
+├── index.html          # Markup strutturale
+└── README.md           # Documentazione del progetto
