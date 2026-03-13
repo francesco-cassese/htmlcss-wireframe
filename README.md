@@ -18,3 +18,6 @@ htmlcss-wireframe/
 │   └── style.css       # Foglio di stile con logica Box Model
 ├── index.html          # Markup strutturale
 └── README.md           # Documentazione del progetto
+```
+
+*Esercizio Boolean - Corso Full Stack Web Developer*
